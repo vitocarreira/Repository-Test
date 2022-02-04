@@ -1,0 +1,1 @@
+print("If you read this, it means that Git is working.")
